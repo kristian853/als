@@ -1,2 +1,2 @@
 # als
-auto audio mastering using lufs
+auto audio mastering, using lufs
